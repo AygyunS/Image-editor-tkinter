@@ -4,6 +4,13 @@ Image Viewer and Editor App
 
 ![image](https://github.com/AygyunS/Image-editor-tkinter/assets/32463645/afb47e8d-4e89-4924-96a5-9d893d52edf6)
 
+Installation
+
+Make sure you have Python 3.x installed on your system.
+Install the required packages using the following command:
+*      pip install tk pillow matplotlib opencv-python numpy
+
+
 
 Description
 The Image Viewer and Editor App is a desktop application developed in Python using the Tkinter library. It provides users with a user-friendly graphical interface to view, edit, and manipulate images using various image processing operations. With this app, users can easily load images, apply filters, adjust brightness and contrast, crop, rotate, zoom, and perform other image editing tasks.
